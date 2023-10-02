@@ -27,5 +27,5 @@ To get started with the Parking Management System, follow these steps:
 1. **Clone the Repository:**
 
    ```shell
-   git clone https://github.com/your-username/parking-management-system.git
-   cd parking-management-system
+   git clone https://github.com/pankajroy24/ParkingSlotApplication.git
+   cd ParkingSlotApplication
